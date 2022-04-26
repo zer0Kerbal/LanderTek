@@ -13,13 +13,13 @@ updated: 24 Apr 2022 -->
 
 # LanderTek (LTEK)
 
-***Micro Shuttle and Rescue Vehicle*** for three (3) kerbals by Fruit Bat Industries. This is ***not*** a SSTO.
+This is a modular pack of 1.25m, 1.875m, and 2.5m lander parts for Kerbal Space Program.
 
 
 
-## By [`zer0Kerbal`][zer0Kerbal], originally by [`artwhaley`][artwhaley
+## By [`zer0Kerbal`][zer0Kerbal], originally by [`artwhaley`][artwhaley]
 
-adopted with *express* permission and brought to you by *KerbSimpleCo*
+adopted with *express* permission and brought to you by *Axial Aerospace*
 
 <img src="https://i.imgur.com/9insi36.png" alt="Ptero logo" width="25%" height="25%"> <img src="https://i.imgur.com/amouo8l.png" alt="Texture and Logo work by Blackheart612" width="50%" height="50%">
 
