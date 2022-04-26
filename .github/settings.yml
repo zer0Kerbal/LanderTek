@@ -19,7 +19,7 @@ repository:
   homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/207923-*/
 
   # A comma-separated list of topics to set on the repository
-  topics: lander,tek,artwhaley,axialaerospace,kerbal,kerbalspaceprogram,ksp,ksp-mods,ksp-parts,kerbal-mods,zedk
+  topics: lander, tek, artwhaley, axialaerospace, kerbal, kerbalspaceprogram, ksp, ksp-mods, ksp-parts, kerbal-mods, zedk
 
   # Either `true` to make the repository private, or `false` to make it public.
   private: false
