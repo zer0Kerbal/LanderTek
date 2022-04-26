@@ -15,13 +15,16 @@ updated: 24 Apr 2022 -->
 
 This is a modular pack of 1.25m, 1.875m, and 2.5m lander parts for Kerbal Space Program.
 
+## This repo is not ready for commits, forks, pulls or pushes.
+
+*I will post in discussions when it is*
 
 
 ## By [`zer0Kerbal`][zer0Kerbal], originally by [`artwhaley`][artwhaley]
 
 adopted with *express* permission and brought to you by *Axial Aerospace*
 
-<img src="https://i.imgur.com/9insi36.png" alt="Ptero logo" width="25%" height="25%"> <img src="https://i.imgur.com/amouo8l.png" alt="Texture and Logo work by Blackheart612" width="50%" height="50%">
+<img src="https://github.com/zer0Kerbal/LanderTek/blob/master/img/HeroLogo_1920x1920.png?raw=true" alt="LanderTek logo" width="50%" height="50%">
 
 https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=181717&logo=github
 
