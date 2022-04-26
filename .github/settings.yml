@@ -16,7 +16,7 @@ repository:
   homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/207923-*/
 
   # A comma-separated list of topics to set on the repository
-  topics: lander,tek,axialaerospace,kerbal,kerbalspaceprogram,ksp,ksp-mods,ksp-parts,kerbal-mods
+  topics: lander,tek,axialaerospace,kerbal,kerbalspaceprogram,ksp,addon,parts,mods,zedk
 
   # Either `true` to make the repository private, or `false` to make it public.
   private: false
@@ -253,11 +253,11 @@ milestones:
 
   - title: 0.3.0.0-release
     description: progress toward 0.1.0.0-release
-    state: open
+    state: closed
 
   - title: 0.5.0.0-release
     description: progress toward 0.1.0.0-release
-    state: open
+    state: closed
 
   - title: 0.5.99.0-adoption
     description: progress toward 0.1.0.0-release
@@ -265,7 +265,7 @@ milestones:
 
   - title: Previous Releases
     description: progress toward recreating all previous releases
-    state: open
+    state: closed
 
   - title: Localization - English (United States) <en-us.cfg>
     description: progress toward English (United States) <en-us.cfg> localization
