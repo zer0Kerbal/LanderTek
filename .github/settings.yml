@@ -249,7 +249,7 @@ labels:
 milestones:
   - title: 0.1.0.0-release
     description: progress toward 0.1.0.0-release
-    state: open
+    state: closed
 
   - title: 0.3.0.0-release
     description: progress toward 0.1.0.0-release
@@ -264,7 +264,7 @@ milestones:
     state: open
 
   - title: Previous Releases
-    description: progress toward recreating all previous Releases
+    description: progress toward recreating all previous releases
     state: open
 
   - title: Localization - English (United States) <en-us.cfg>
