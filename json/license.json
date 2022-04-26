@@ -1,8 +1,8 @@
 {
  "schemaVersion": 1,
  "label": "License",
- "labelColor": "purple",
- "message": "WTFPL",
- "color": "white",
+ "labelColor": "black",
+ "message": "Expat-MIT",
+ "color": "red",
  "style": "plastic"
 }
