@@ -74,10 +74,9 @@ labels:
     description: "Frequently Asked Question"
 
   - name: "semantic: adoption"
-    # include the old name to rename an existing label
     oldname: adoption
     color: BADA55
-    description: relating to adoption
+    description: "relating to adoption"
 
   - name: "semantic: release"
     color: 00FF00
@@ -149,7 +148,6 @@ labels:
 
   - name: "type: localization"
     oldname: localization
-    # include the old name to rename an existing label
     color: FFFFF0
     description: related to localization and translations
 
@@ -184,18 +182,15 @@ labels:
 
   - name: "type: enhancement"
     oldname: "Mod-enhancement"
-    # include the old name to rename an existing label
     color: 5ebeff
     description: Requested functionality, features, pages, workflows, endpoints, etc.
 
   - name: "type: feature"
     oldname: "Mod-feature"
-    # include the old name to rename an existing label
     description: Brand new functionality, features, pages, workflows, endpoints, etc.
 
   - name: "type: request"
     oldname: "Mod-request"
-    # include the old name to rename an existing label
     color: 5ebeff
     description: Requested functionality, features, pages, workflows, endpoints, etc.
 
@@ -205,7 +200,6 @@ labels:
 
   - name: "type: upstream"
     oldname: "upstream"
-    # include the old name to rename an existing label
     color: FFFFF0
     description: upstream or side stream
 
