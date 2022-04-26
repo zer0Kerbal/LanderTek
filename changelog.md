@@ -1,23 +1,33 @@
-## Version 0.5 for Kerbal Space Program 1.0.5
+# Changelog
 
-Released on 2015-11-21
+## Version 0.5.0.0
 
-*No changelog provided*
+* Released on 2015-11-21
+* Kerbal Space Program 1.0.5
 
-[ Download](https://web.archive.org/web/20151124102839/https://kerbalstuff.com/mod/469/LanderTek - modular lander parts... for landing./download/0.5)
+* last release by ArtWhaley
+* *No changelog provided*
+* [Download](https://web.archive.org/web/20151124102839/https://kerbalstuff.com/mod/469/LanderTek%20-%20modular%20lander%20parts...%20for%20landing./download/0.5)
 
-## Version 3 for Kerbal Space Program 0.90
+---
 
-Released on 2015-01-10
+## Version 0.3.0.0
 
-New Paint Scheme. Several new Parts.
+* Released on 2015-01-10
+* Kerbal Space Program 0.90
 
-[ Download](https://web.archive.org/web/20151124102839/https://kerbalstuff.com/mod/469/LanderTek - modular lander parts... for landing./download/3)
+* New Paint Scheme
+* Several new Parts.
+* [Download](https://web.archive.org/web/20151124102839/https://kerbalstuff.com/mod/469/LanderTek%20-%20modular%20lander%20parts...%20for%20landing./download/3)
 
-## Version 0.1 for Kerbal Space Program 0.90
+---
 
-Released on 2014-12-31
+## Version 0.1.0.0
 
-*No changelog provided*
+* Released on 2014-12-31
+* Kerbal Space Program 0.90
 
-[ Download](https://web.archive.org/web/20151124102839/https://kerbalstuff.com/mod/469/LanderTek - modular lander parts... for landing./download/0.1)
+* *No changelog provided*
+* [Download](https://web.archive.org/web/20151124102839/https://kerbalstuff.com/mod/469/LanderTek%20-%20modular%20lander%20parts...%20for%20landing./download/0.1)
+
+---
