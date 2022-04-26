@@ -23,6 +23,7 @@ based upon work by LisiasT -->
 * "LanderTek" is trademark of ArtWhaley
 * "Axial Aerospace" and "AxialAerospace" is trademark of ArtWhaley
 * "LTEK" is a trademark of zer0Kerbal
+* "More Parts, More Possibilities" is a trademark of zer0Kerbal
 * Kerbal Simple Co is a trademark of zer0Kerbal
 * KerbSimCo is a trademark of zer0Kerbal
 * zer0Kerbal is trademark of zer0kerbal
