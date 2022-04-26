@@ -1,5 +1,15 @@
 # Changelog
 
+| modName    | LanderTek by Axial Aerospace (LTEK)                              |
+| ---------- | ---------------------------------------------------------------- |
+| license    | Expat-MIT                                                        |
+| author     | artwhaley and zer0Kerbal                                         |
+| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/207923-*) |
+| github     | (https://github.com/zer0Kerbal/zer0Kerbal/LanderTek)             |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/LanderTek)           |
+| spacedock  | (https://spacedock.info/mod/3020)                                |
+| ckan       | LanderTek                                                        |
+
 ## Version 0.5.0.0
 
 * Released on 2015-11-21
