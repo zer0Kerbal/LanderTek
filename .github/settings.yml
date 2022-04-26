@@ -5,8 +5,8 @@
 # updated 20 Apr 2022
 # These settings are synced to GitHub by https://probot.github.io/apps/settings/
 # See https://docs.github.com/en/rest/reference/repos#update-a-repository for all available settings.
+
 repository:
-  # The name of the repository. Changing this will rename the repository
   name: LanderTek
 
   # A short description of the repository that will show up on GitHub
@@ -16,7 +16,7 @@ repository:
   homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/207923-*/
 
   # A comma-separated list of topics to set on the repository
-  topics: lander,tek,artwhaley,axialaerospace,kerbal,kerbalspaceprogram,ksp,ksp-mods,ksp-parts,kerbal-mods,zedk
+  topics: lander,tek,axialaerospace,kerbal,kerbalspaceprogram,ksp,addon,parts,mods,zedk
 
   # Either `true` to make the repository private, or `false` to make it public.
   private: false
@@ -56,7 +56,7 @@ repository:
 labels:
   - name: bug 🐛
     color: CC0000
-    description: An issue with the system. Something isn't working... KSC... we have an error code
+    description: "An issue with the system. Something isn't working... KSC... we have an error code"
 
   - name: "help wanted"
     color: 008672
@@ -71,10 +71,9 @@ labels:
     description: "Frequently Asked Question"
 
   - name: "semantic: adoption"
-    # include the old name to rename an existing label
     oldname: adoption
     color: BADA55
-    description: relating to adoption
+    description: "relating to adoption"
 
   - name: "semantic: release"
     color: 00FF00
@@ -146,7 +145,6 @@ labels:
 
   - name: "type: localization"
     oldname: localization
-    # include the old name to rename an existing label
     color: FFFFF0
     description: related to localization and translations
 
@@ -181,18 +179,15 @@ labels:
 
   - name: "type: enhancement"
     oldname: "Mod-enhancement"
-    # include the old name to rename an existing label
     color: 5ebeff
     description: Requested functionality, features, pages, workflows, endpoints, etc.
 
   - name: "type: feature"
     oldname: "Mod-feature"
-    # include the old name to rename an existing label
     description: Brand new functionality, features, pages, workflows, endpoints, etc.
 
   - name: "type: request"
     oldname: "Mod-request"
-    # include the old name to rename an existing label
     color: 5ebeff
     description: Requested functionality, features, pages, workflows, endpoints, etc.
 
@@ -202,7 +197,6 @@ labels:
 
   - name: "type: upstream"
     oldname: "upstream"
-    # include the old name to rename an existing label
     color: FFFFF0
     description: upstream or side stream
 
@@ -255,19 +249,23 @@ labels:
 milestones:
   - title: 0.1.0.0-release
     description: progress toward 0.1.0.0-release
-    state: open
+    state: closed
 
   - title: 0.3.0.0-release
     description: progress toward 0.1.0.0-release
-    state: open
+    state: closed
 
   - title: 0.5.0.0-release
     description: progress toward 0.1.0.0-release
-    state: open
+    state: closed
 
   - title: 0.5.99.0-adoption
     description: progress toward 0.1.0.0-release
     state: open
+
+  - title: Previous Releases
+    description: progress toward recreating all previous releases
+    state: closed
 
   - title: Localization - English (United States) <en-us.cfg>
     description: progress toward English (United States) <en-us.cfg> localization
