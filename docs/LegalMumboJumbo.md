@@ -29,4 +29,4 @@ updated: 12 Apr 2022
   * ![Forum](./LegalMumboJumbo/FORUM-05.png)
   * ![Forum](./LegalMumboJumbo/FORUM-06.png)
 
-<!-- this file CC BY-ND 3.0 Unported by zer0Kerbal -->
+<!-- this file CC BY-ND 4.0 by zer0Kerbal -->
