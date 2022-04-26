@@ -30,6 +30,12 @@
 * Several new Parts.
 * [Download](https://web.archive.org/web/20151124102839/https://kerbalstuff.com/mod/469/LanderTek%20-%20modular%20lander%20parts...%20for%20landing./download/3)
 
+### Status
+
+* Issues
+  * updates #28 - Recreate previous
+  * closes #30 - 0.3.0.0-release
+
 ---
 
 ## Version 0.1.0.0
@@ -39,5 +45,11 @@
 
 * *No changelog provided*
 * [Download](https://web.archive.org/web/20151124102839/https://kerbalstuff.com/mod/469/LanderTek%20-%20modular%20lander%20parts...%20for%20landing./download/0.1)
+
+### Status
+
+* Issues
+  * updates #28 - Recreate previous
+  * closes #29 - 0.1.0.0-release
 
 ---
