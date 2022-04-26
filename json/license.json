@@ -1,8 +1,8 @@
 {
-  "schemaVersion": 1,
-  "label": "License",
-  "labelColor": "black",
-  "message": "WTFPL",
-  "color": "black",
-  "style": "plastic"
+ "schemaVersion": 1,
+ "label": "License",
+ "labelColor": "purple",
+ "message": "WTFPL",
+ "color": "white",
+ "style": "plastic"
 }
