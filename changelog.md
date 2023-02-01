@@ -2,7 +2,7 @@
 
 | modName    | LanderTek by Axial Aerospace (LTEK)                              |
 | ---------- | ---------------------------------------------------------------- |
-| license    | GPL-2.0                                                        |
+| license    | GPL-2.0                                                          |
 | author     | artwhaley and zer0Kerbal                                         |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/207923-*) |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/LanderTek)             |
