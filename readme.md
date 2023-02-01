@@ -1,118 +1,123 @@
-<!-- readme.md v1.6.6.5
+<!-- readme.md v1.7.0.1
 LanderTek (LTEK)
 created: 17 Jul 2017
-updated: 24 Apr 2022 -->
+updated: 17 Jan 2023 -->
 
-<!--this file: CC BY-ND 4.0 unported by zer0Kerbal-->
+<!--this file: CC BY-ND 4.0 by zer0Kerbal-->
 
-[![LanderTek][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
-[![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url] [![CKAN][CKAN:shd]][CKAN:url]   
-![Code][CODE:shd] ![KSP-AVC][AVC:shd] ![Validate AVC .version files][AVCVLD:shd] [![Pages][MOD:pages:shd]][MOD:pages]
+[![LanderTek (LTEK)][MOD:shd]][forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
+[![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url]  
+[![CKAN][ckan:shd]][ckan:url] [![Pages][PAGES:shd]][pages]
 
 
 
-# LanderTek (LTEK)
+# LanderTek (LTEK) by [Axial Aerospace][AAL]
 
 This is a modular pack of 1.25m, 1.875m, and 2.5m lander parts for Kerbal Space Program.
 
-## This repo is not ready for commits, forks, pulls or pushes.
-
-*I will post in discussions when it is*
 
 
 ## By [`zer0Kerbal`][zer0Kerbal], originally by [`artwhaley`][artwhaley]
 
 adopted with *express* permission and brought to you by *Axial Aerospace*
 
-<img src="https://github.com/zer0Kerbal/LanderTek/blob/master/img/HeroLogo_1920x1920.png?raw=true" alt="LanderTek logo" width="50%" height="50%">
+<img src="https://github.com/zer0Kerbal/LanderTek/blob/master/img/HeroLogo_1920x1920.png?raw=true" alt="LanderTek logo" width="500px" height="500px">
 
-https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=181717&logo=github
+### Preamble by [artwhaley][artwhaley]
 
-<details>
-  <summary><b>Preamble by <a href="https://forum.kerbalspaceprogram.com/index.php?/profile/102159-sage-sagan/">@artwhaley</a></b></summary>
-  <p>I love Helldiver's KSO, but it got me thinking about the WEKA and the idea of a REALLY small lifting body shuttle(1.25m scale) for crew return and emergency returns from orbit. So after a few abortive attempts at Blender which resulted in the kind of design that should be drowned at birth, I decided to draw on a napkin at work(aren't those always the best designs?).</p>
-  <p>The idea ~would be~ [was] to keep a very low part count, so ideally it will consist of only 6-8 parts i.e. Fuselage,right and left winglets ,docking port,two oms engines. The OMS engines would be R.C.S fueled so they can share the same internal R.C.S. tanks as the thrusters. The shuttle will seat 2 kerbals in a tandem configuration with hopefully RPM displays(2), as a place holder the MK2 cockpit IVA could be used as config is similar.<p>
-  <p>The shuttle, when fueled would weigh in at around 1.8 tonnes and due to it's size will fit in a 2.5m fairing which makes it much easier to launch especially for FAR uses. I picture it as being slightly wider that a MK2 cockpit. This is not shown on the sketch but the docking collar will fit on the rear. The compact size means it should fit in a 2.5m cargo bay for carrying on larger ships etc.</p>
-</details>
+> New From Axial Aerospace...  A couple of parts to solve a hole in the stock lineup
+>
+> This is a modular pack of lander parts... It will eventually be a complete suite of pods, tanks, engines, decouplers, and legs for building everything from light probe landers to heavy manned missions with loads of science on board.
+>
+> It's always bugged me that the stock parts don't lend themselves to building compact realistic-ish' landers. Landers are built light and boxy with an emphasis on low COG's, lightweight parts, and plenty of good places to attach the gizmos they'll need on the surface. Nasa doesn't like trying to keep a 2.5m round, 12 m high lander from tipping over anymore than we do. These parts don't match the stock parts in terms of volume of fuel in volume of space... justify it by saying that lander parts are built lighter than launcher tanks and such... or... just don't worry about it! KSP is a game and the scale of things doesn't work out perfectly in it, but I think these parts are a good balance of realism/fun.
+>
+> Here's what's currently in the pack:
+>
+>* 2.5m, 3 man lander can . The exterior is finished, the interior is just a couple of RPM huds in the pilot's seat... the interior will eventually be fleshed out in the same near-future style as my dreamchaser IVA, but that's way down the line.
+>* 2.5m stack that includes:
+>* Upperstage with high TWR engine, fuel, monoprop, and integrated 5 way RCS Thrusters.
+>* Lowerstage with low TWR engine and fuel
+>* Slim decoupler
+>* Undercarriage truss (also fits well on 1.875 engine part
+>* Undercarriage truss with integrated legs (little buggy... but then, most single parts with multiple legs are....) and both surface and node attach points for science and miscellaneous
+>* Additional 2.5m fuel tank for adding deltav to either stage
+>* A 1.875m Single Stage engine module that includes onboard RCS thrusters and monoprop storage in addition to the main engine and fuel. Works great with the stock lander can and the ALCOR capsule!
+>* A 1.25m stack that includes
+>* Upperstage with high TWR engine, fuel, monoprop, and integrated 5 way RCS thrusters
+>* Lowerstage with low TWR engine and fuel
+>* Slim decoupler
+>* additional 1.25m fuel tank for adding deltav to either stage
+>* A 1.25m skycrane system that consists of -
+>* Skycrane pod, with 4 integrated engines
+>* Additional engine piece for adding 4 more offset engines for heavy payloads
+>* Additional fuel tank for skycrane
+>* RCS tank with integrated 5 way thrusters for orbital linkup with payloads
+>* Docking port for skycrane payloads
+>* Two landing legs - one that extends straight and one that folds away up for more clearance when stowed.
+>* Smaller surface/node mountable versions of the goo container and materials bay - identical to stock but with cool new models and designed to mount to my lander undercarriages
+>* Sample Return case - a cute little box that can store science experiment results. It still can only hold one of each experiment, but you can carry multiples! Put two of these on the upper stage and all your experiments on the lower stage and you can have your scientist run all experiments 3 times, putting one result in each container and carrying the third into the pod then leave all the heavy science equipment behind when you blast off! Or carry 8 cases with you and let a scientist biome hop several times before returning to an orbital lab to stash the data there!
+>
+> Planned- I'll be honest, I've been very slow on my modding lately, so it may be a long time before any of the planned features get into the pack, and i'd WELCOME help if anyone is interested in contributing.
+>
+>* 1.25m, two man command pod
+>* Scaled down probe-sized science experiments
+>* Tiny .675m probe lander system
+>* More variety of lander legs
+>* Heat shielded and aerodynamic set of lander parts for operating on planets with atmospheres!
+>* And... maybe a Command and Service modules and set of docking ports that match the mod's aesthetic, so you can build a mission entirely out of it? Maybe not! There are a lot of good rocket parts out there and that's sort of scope creep from the idea of LANDER parts.
+>
+> When I say ascent and descent stages in the part descriptions... there's no reason they can't be combined in a lot of other ways or used as single stages, etc. It's just easier to describe them in Apollo lander style stacks. Ascent stages are a little smaller than descent stages. Ascent stages will have built in RCS. Descent stages will make certain to have places to attach landing gear. But there won't be anything stopping you from putting the ascent stage on bottom... or stacking three descent stages on top of each other... etc.
+> The 2.5m command pod will eventually include 3 different seats with very different controls - a pilot with a lot of visibility, who gets flight and fuel data through huds, but not much else - a science and engineering station with action groups, cameras and other controls, and a docking module pilot's seat that faces up. I'll eventually release a docking port for the top of the pod that allows you to see through the top windows for visual approach to docking.
+> These images are from the first development version. They show the old color scheme - this is still a WIP.
 
----
+### See more
 
-### See More
-
-* Discussions and news on this mod: See [Discussions][MOD:discu] or [KSP Forums][MOD:forum]
-* Changelog Summary for more details of changes: See [ChangeLog][MOD:chlog]
-* Known Issues for more details of feature requests and known issues : See [Known Issues][MOD:issue]
-* GitHub Pages : See [Pages][MOD:pages]
-
----
-
-![Hero Image][IMG:hero:0]
-
-### Youtube review by [`Kottabos Gaming`](https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/)
-
-[![Kottabos reviews Dreamer](https://img.youtube.com/vi/Oj1etoybd7E/0.jpg)](https://www.youtube.com/watch?v=Oj1etoybd7E)
-
-<details>
-  <summary><b>Youtube review by <a href="https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/ ">@Kottabos Gaming</a></b></summary>
-  Support on <a href="https://www.patreon.com/Kottabosgames">Patreon.</a>
-  <iframe width="1136" height="639" src="https://www.youtube.com/embed/Oj1etoybd7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</details>
-
-<details>
-	<summary><b>Some of the amazing modeling work of <a href="https://forum.kerbalspaceprogram.com/index.php?/profile/103696-daemoria/">@Daemoria</a></b></summary>
-    <pre>Some of the amazing modeling work of Daemoria</pre>
-    <img src="https://camo.githubusercontent.com/9d01269db79915ac1e33591e3c104d235629ee2c882d055b5bace08ea45d368a/68747470733a2f2f692e696d6775722e636f6d2f3937733170304f2e706e67" alt="Some of the amazing modeling work of Daemoria" width="75%" height="75%">
-</details>
-
-<details>
-    <summary><b>More inspiration</b></summary>
-    Test Flight!: More inspiration
-    <img src="https://i.imgur.com/T6pyukJ.jpg" alt="More inspiration" width="75%" height="75%">
-</details>
-
-<details>
-    <summary><b>Fruit Bat Industries mk I</b></summary>
-    <img src="https://i.imgur.com/KpBnYY2.jpg" alt="Fruit Bat Industries LanderTek mk I" width="75%" height="75%">
-</details>
+>* [ChangeLog][chlog] for more details of changes
+>* [Discussions][discu] or [KSP Forums][forum] for discussions and news
+>* [GitHub Pages][pages]
+>* [Known Issues][issue] for more details of feature requests and known issues
+>* [Marketing Slicks][markt]
+>* [Parts Catalog][parts] for part pictures
 
 ### Help Wanted
 
-> * Would love someone to convert from FireSpitter to Stock and/or KSPWheel  
-> * Variant Textures and code to make it work always welcome!
-> * Model updates to Unity 2019
-> * Have a request? Glad to have them, kindly submit through [GitHub][MOD:issue].
-
----
+> * Compatibility patches
+> * [Community Tech Tree][ctt] integration and balancing
+> * Contracts for these glorious parts
+> * Variant Textures
+> * Converting from FireSpitter to Stock and/or KSPWheel  
+> * Model updates (add/improve lights, iva, hatches and so forth)
+> * Marketing Images and Videos such as hero shots, animated gifs, short highlights
+> * Translations: See the [README in the Localization folder][lreadme] for instructions for adding or improving translations. There is also the [quickstart guide][qstart]. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
+> * Have a request? Glad to have them, kindly submit through [GitHub][issue].
 
 ### Localization
 
 >* ![English][EN] English
 >* ***your translation here***
->
-> HELP WANTED - See the [README in the Localization folder][MOD:local] for instructions for adding or improving translations. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
 
----
+### Installation Directions [^1]
 
-### Installation Directions
+Use CurseForge/OverWolf Website/App
 
-***Use***
-  CurseForge/OverWolf App (currently does not install dependencies) [^1]  
+<a href="https://download.curseforge.com/"><img src="https://www.overwolf.com/brand-guidelines/img/logo2.svg" alt="CurseForge/OverWolf App" height="80px"></a>
 
-  <a href="https://download.curseforge.com/">
-    <img src="https://www.overwolf.com/brand-guidelines/img/logo2.svg" alt="CurseForge/OverWolf App" width="15%" height="15%">
-</a>
+or<a href="https://forum.kerbalspaceprogram.com/index.php?/topic/197082-*/"><img src="https://i.postimg.cc/x8XSVg4R/sj507JC.png" alt="CKAN App" height="75px"></a>
 
-or [![CKAN][CKAN:img]][CKAN:url] [^1]
+I take no part, nor am I interested in maintaining the [CKAN][ckan:url] metadata for my mods. [CKAN][ckan:url] is a great mod for those that can't use zip tools. If you are having issues please let the [CKAN][ckan:url] people know and refer to the [CKAN][ckan:url] thread. My support of [CKAN][ckan:url] extends with checking the checkbox in [SpaceDock][SPCDCK:url]. Beware, [CKAN][ckan:url] *can* really mess up; though it tries very, very, very hard not to.
 
 ### Dependencies
 
+* [AxialAerospace Ltd (AA/L)][AAL]
 * [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url] [^2]
+
 * *either*
   * [Firespitter core][fsc]
   * [Firespitter][fs]
 * *either*
   * [Module Manager][mm] [^3]
   * [Module Manager /L][mml] [^3]
+
 ### Supports
 
 * [On Demand Fuel Cells (ODFC)][ODFC] [^3]  
