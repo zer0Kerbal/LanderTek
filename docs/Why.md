@@ -2,10 +2,8 @@
 permalink: /Why.html
 title: Why
 description: the flat-pack Kiea instructions, written in Kerbalese, unusally present
-# layout: bare
 tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
 <!-- Why.md v1.1.0.0
 LanderTek (LTEK)
 created: 01 Oct 2019
