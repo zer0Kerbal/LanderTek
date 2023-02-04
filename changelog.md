@@ -11,11 +11,12 @@
 | ckan       | LanderTek                                                        |
 
 
-landertekspec.mbm --> .dds
 landertekspec.tga --> .dds
-landerlower.mbm --> .dds
-landertekNRM.mbm --> .dds
 landertekNRM.tga --> .dds
+
+landerlower.mbm 3.1mb --> .dds 1.4mb
+landertekNRM.mbm 8.2mb --> .dds 2.7mb
+landertekspec.mbm 8.2mb--> .dds 2.7mb
 
 
 
