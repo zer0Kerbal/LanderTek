@@ -123,12 +123,16 @@ I take no part, nor am I interested in maintaining the [CKAN][ckan:url] metadata
 * [Biomatic (BIO)][BIO]
 * [Docking Port Descriptions(DPD)][DPD]
 * [Drop Tank Wrapper (DROP)][DROP]
+* [Field Training Facility (FTF)][FTF]
+* [Field Training Lab (FTL)][FTL]
 * [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
 * [Inflatable PicoPort (IPP)][IPP]
 * [Kaboom! (BOOM)][BOOM]
+* [Lithobrake Exploration Technologies (LET)][LET]
 * [On Demand Fuel Cells (ODFC)][ODFC]
 * [OScience Laboratories (OSL)][OSL]
 * [Papa Kerballini's Pizza (PIZZA)][PIZZA]
+* [Portable Science Container (PRC)][PRC]
 * [Precise Maneuver (PM)][PM]
 * [Shielded PicoPort (SPP)][SPP]
 * [SimpleConstruction! (SCON)][SCON]
@@ -138,6 +142,11 @@ I take no part, nor am I interested in maintaining the [CKAN][ckan:url] metadata
 * [Stack Inline Lights - Patches (SILP)][SILP]
 * [Stack Inline Lights (SIL)][SIL]
 * [Tweakscale (twk)][twk]
+* [Kerbal Inventory System][kis]
+* [Kerbal Joint Reinforcement][kjr]
+* *either*
+  * [Raster Prop Monitor][rpm]
+  * [MOARdV's Avionics System][mas]
 
 ### Supports
 
@@ -281,11 +290,8 @@ I take no part, nor am I interested in maintaining the [CKAN][ckan:url] metadata
 [DREAM]: https://forum.kerbalspaceprogram.com/index.php?/topic/207306-*/ "Dreamer (DREAM)"
 [WHIM]: https://forum.kerbalspaceprogram.com/index.php?/topic/204900-*/ "WhimChaser (WHIM)"
 
-[b9ps]: https://forum.kerbalspaceprogram.com/index.php?/topic/140541-*/ "B9 Part Switch"
 [fs]: https://github.com/snjo/Firespitter/ "Firespitter Core"
 [fsc]: https://github.com/snjo/Firespitter "Firespitter core"
-[ifs]: https://forum.kerbalspaceprogram.com/index.php?/topic/106243-*/ "Interstellar Fuel Switch"
-[ifsc]: https://forum.kerbalspaceprogram.com/index.php?/topic/106243-*/ "Interstellar Fuel Switch (Core)"
 [kis]: https://forum.kerbalspaceprogram.com/index.php?/topic/149848-*/ "Kerbal Inventory System"
 [kjr]: https://forum.kerbalspaceprogram.com/index.php?/topic/184206-*/ "Kerbal Joint Reinforcement"
 [mas]: https://forum.kerbalspaceprogram.com/index.php?/topic/160856-*/ "MOARdV's Avionics System"
