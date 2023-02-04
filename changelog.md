@@ -10,12 +10,12 @@
 | spacedock  | (https://spacedock.info/mod/3020)                                |
 | ckan       | LanderTek                                                        |
 
-## Version 0.5.0.0-release
+## Version 0.5.99.0-adoption
 
 * Released on 2015-11-21
 * Kerbal Space Program 1.0.5
 
-### Localization
+### Localization 0.5.99.0
 
 * Parts
   * create
@@ -24,20 +24,20 @@
     * [quickstart.md]
     * <en-us.cfg>
   * updates #9 - Localization - Master
-  * closes #10 - Localization - English (United States) <en-us.cfg>
+  * closes #10 - Localization - English <en-us.cfg>
 
-### Previous Releases
+### Archival Releases 0.5.99.0
 
-* Recreate previous releases
-* 0.1.0.0-release
-  * closes #29 - 0.1.0.0-release
-* 0.3.0.0-release
-  * closes #30 - 0.3.0.0-release
-* 0.5.0.0-release
-  * closes #28 - Recreate previous
-  * closes #31 - 0.5.0.0-release
+* Recreate archival releases
+  * 0.1.0.0-release
+  * 0.3.0.0-release
+  * 0.5.0.0-release
+* closes #28 - Recreate previous
+* closes #29 - 0.1.0.0-release
+* closes #30 - 0.3.0.0-release
+* closes #31 - 0.5.0.0-release
 
-### Status
+### Status 0.5.99.0
 
 * Issues
   * closes #1 - 0.5.99.0 Create Social Media
