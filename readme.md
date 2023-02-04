@@ -13,7 +13,7 @@ updated: 17 Jan 2023 -->
 
 # LanderTek (LTEK) by [Axial Aerospace][AAL]
 
- Modular lander parts... for landing. This is a modular pack of 1.25m, 1.875m, and 2.5m lander parts for Kerbal Space Program.
+Modular lander parts... for landing. This is a modular pack of 1.25m, 1.875m, and 2.5m lander parts for Kerbal Space Program.
 
 ## More Parts, More Possibilities
 
