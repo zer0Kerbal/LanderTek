@@ -22,7 +22,35 @@ This is a modular pack of 1.25m, 1.875m, and 2.5m lander parts for Kerbal Space 
 
 ### 0.625m and 1.25m
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/SimpleCargoSolutions/master/docs/thumbs/scs-Simple0625_icon.png" alt="Simple500t" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/SimpleCargoSolutions/master/docs/thumbs/scs-Simple125_icon.png" alt="DockingJr" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/LanderTek/master/docs/thumbs/scs-Simple0625_icon.png" alt="Simple500t" width="25%" height="25%" />
+
+* decoupler
+  * 1.25m, 2.5m
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/LanderTek/master/docs/thumbs/ltek-decoupler-125_icon.png" alt="decoupler 1.25" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/LanderTek/master/docs/thumbs/ltek-decoupler-250_icon.png" alt="ltek-decoupler-250" width="25%" height="25%" />
+
+* science
+  * Mayterials Bay
+  * Mystery Goo™
+  * Sample Container
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/LanderTek/master/docs/thumbs/ltek-science-bay_icon.png" alt="ltek-science-bay" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/LanderTek/master/docs/thumbs/ltek-science-goo_icon.png" alt="ltek-science-goo" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/LanderTek/master/docs/thumbs/ltek-science-sample_icon.png" alt="ltek-science-sample" width="25%" height="25%" />
+
+* 1.25m
+  * lower stage
+  * upper stage
+  * tank
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/LanderTek/master/docs/thumbs/png ltek-stage-lower-150_icon.png" alt="1.25m lower stage" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/LanderTek/master/docs/thumbs/png ltek-stage-upper-150_icon.png" alt="1.25m upper stage" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/LanderTek/master/docs/thumbs/ltek-tank-150_icon.png" alt="1.25m tank" width="25%" height="25%" />
+
+* battery 400
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/LanderTek/master/docs/thumbs/ltek-battery-400_icon.png" alt="400 EC Battery" width="25%" height="25%" />
+
+* 2.5m carriage
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/LanderTek/master/docs/thumbs/ltek-carriage-250_icon.png" alt="2.5m carriage" width="25%" height="25%" />
+
 
 [top](#parts-catalog)
 
