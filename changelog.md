@@ -10,16 +10,19 @@
 | spacedock  | (https://spacedock.info/mod/3020)                                |
 | ckan       | LanderTek                                                        |
 
+## Version 0.5.99.0-adoption - `<Thank you artwhaley>` edition
 
-## Version 0.5.99.0-adoption
-
-* Released on 2015-11-21
-* Kerbal Space Program 1.0.5
+* Released
+  * 03 Feb 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
 
 This is part of a planned series of updates to this addon. Each update will update some of the parts and patches so that instead of one massive update I can update the addon in a more manageable way.
 
+### Adoption by [zer0Kerbal](https://github.com/zer0Kerbal)
+
 * Can now search for `ltek` in the editor search bar to find all LanterTek parts
-* 23 total parts
+* ~23 total parts
   * Only updated parts are included
   * 10 parts refreshed in this release which include:
     * 1.25m lower stage
