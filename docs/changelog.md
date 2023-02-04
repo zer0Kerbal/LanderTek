@@ -73,7 +73,7 @@ This is part of a planned series of updates to this addon. Each update will upda
 * closes #30 - 0.3.0.0-release
 * closes #31 - 0.5.0.0-release
 
-### Documentation
+### Documentation 0.5.99.0
 
 * Create
   * readme
@@ -89,7 +89,7 @@ This is part of a planned series of updates to this addon. Each update will upda
 * closes #48 - Update readme.md
 * closes #26 - # folder restructure
 
-### GitHub Pages
+### GitHub Pages 0.5.99.0
 
 * Create
   * docs/
@@ -107,7 +107,7 @@ This is part of a planned series of updates to this addon. Each update will upda
     * [Why.md] v1.1.0.0
 * closes #7 - Needs a wiki
 
-### Legal Mumbo Jumbo
+### Legal Mumbo Jumbo 0.5.99.0
 
 * Create
   * license check
@@ -164,13 +164,13 @@ This is part of a planned series of updates to this addon. Each update will upda
   * LanderTek.cfg v1.0.0.0
     * adds localized tags to parts
 
-### License
+### License 0.5.99.0
 
 * Update
   * Updated License: GPL-2.0
     * was: WTPFL
 
-### Social Media Presence
+### Social Media Presence 0.5.99.0
 
 * Create Social Media Presence
   * Kerbal Space Program forum
@@ -186,7 +186,7 @@ This is part of a planned series of updates to this addon. Each update will upda
   * Reddit post
   * Patreon post
 
-### Marketing
+### Marketing 0.5.99.0
 
 * Create
   * HeroLogo.png
