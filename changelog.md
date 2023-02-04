@@ -10,6 +10,35 @@
 | spacedock  | (https://spacedock.info/mod/3020)                                |
 | ckan       | LanderTek                                                        |
 
+
+landertekspec.mbm --> .dds
+landertekspec.tga --> .dds
+landerlower.mbm --> .dds
+landertekNRM.mbm --> .dds
+landertekNRM.tga --> .dds
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Version 0.5.99.0-adoption
 
 * Released on 2015-11-21
