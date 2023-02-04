@@ -14,10 +14,10 @@
 landertekspec.tga --> .dds
 landertekNRM.tga --> .dds
 
+cockpittext.mbm 369kb --> .dds 342kb
 landerlower.mbm 3.1mb --> .dds 1.4mb
 landertekNRM.mbm 8.2mb --> .dds 2.7mb
 landertekspec.mbm 8.2mb--> .dds 2.7mb
-
 
 
 
